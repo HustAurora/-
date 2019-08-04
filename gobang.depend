@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1550280566 source:d:\c语言大作业\gobang\acsearcher.cpp
+	"ACSearcher.h"
+	<cassert>
+
+1550280566 d:\c语言大作业\gobang\acsearcher.h
+	<string>
+	<vector>
+	<map>
+
+1550327260 source:d:\c语言大作业\gobang\battle.cpp
+	"battle.h"
+
+1550280566 d:\c语言大作业\gobang\battle.h
+	"settings.h"
+	"ChessEngine.h"
+
+1550280566 d:\c语言大作业\gobang\settings.h
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<Windows.h>
+	<math.h>
+	<mmsystem.h>
+
+1550280566 d:\c语言大作业\gobang\chessengine.h
+	<string>
+	<vector>
+
+1550280566 source:d:\c语言大作业\gobang\main.cpp
+	"battle.h"
+	"settings.h"
+
+1550280566 source:d:\c语言大作业\gobang\chessengine.cpp
+	"ChessEngine.h"
+	"ACSearcher.h"
+	"PossiblePositionManager.h"
+	<iostream>
+	<cstdlib>
+	<set>
+	<vector>
+	<cmath>
+	<stack>
+	<cassert>
+	<string.h>
+
+1550280566 d:\c语言大作业\gobang\possiblepositionmanager.h
+	"ChessEngine.h"
+	<set>
+	<vector>
+
+1550280566 source:d:\c语言大作业\gobang\possibleposition.cpp
+	"PossiblePositionManager.h"
+	<cassert>
+
+1550280566 source:d:\c语言大作业\gobang\settings.cpp
+	"settings.h"
+
+1550475398 source:d:\c语言大作业\gobang\possiblepositionmanager.cpp
+	"PossiblePositionManager.h"
+	<cassert>
+
