@@ -31,9 +31,10 @@
 ## 函数设计
 ### 评估函数
 ![image.png](https://upload-images.jianshu.io/upload_images/13964980-91ebb084d930161c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+* 将棋盘情况转为字符串
+* 判断棋盘棋型
+（利用scanlines函数判断是否出现符合预设情况的字符串）
+* 计算得分
 
 ## 成果展示
-### 双人对战
-![image.png](https://upload-images.jianshu.io/upload_images/13964980-63e36e0dad5a55c7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-### 人机对战
 ![image.png](https://upload-images.jianshu.io/upload_images/13964980-177cfad0d97b757a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
